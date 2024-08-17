@@ -29,6 +29,19 @@ After downloading the project and installing the dependencies, follow these step
 - use the command `python3 main.py`
 
 If the project is located at "Downloads" directory, here is an example:
+For Linux/Mac:
+```
+cd ~Downloads/<project_name>
+python3 main.py
+```
+Or this for Windows:
+
+```
+cd %USERPROFILE%\Downloads\<project_name>
+python3 main.py
+```
+
+
 
 
 
