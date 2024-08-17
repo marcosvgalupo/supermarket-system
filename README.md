@@ -21,3 +21,14 @@ Before running the application, make sure you've attended the following requirem
 - You have installed: `python3` and `tkinter` library
 <br>
 
+## ☕ Using the application
+**To run the project make sure that you installed all the dependencies**
+After downloading the project and installing the dependencies, follow these steps:
+
+- open the directory where the project is located
+- use the command `python3 main.py`
+
+If the project is located at "Downloads" directory, here is an example:
+
+
+
