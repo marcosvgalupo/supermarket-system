@@ -1,2 +1,2 @@
-# Sistema-de-Supermercado
-Trabalho de Orientação à Objetos
+# Supermarket System
+A supermarket system built in python using tkinter library.
